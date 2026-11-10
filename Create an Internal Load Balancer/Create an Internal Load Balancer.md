@@ -5,7 +5,7 @@
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20an%20Internal%20Load%20Balancer/gsp216.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Create%20an%20Internal%20Load%20Balancer/gsp216.sh
 
 sudo chmod +x *.sh
 

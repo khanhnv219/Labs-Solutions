@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Configuring%20and%20Viewing%20Cloud%20Audit%20Logs/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Configuring%20and%20Viewing%20Cloud%20Audit%20Logs/shell.sh
 
 sudo chmod +x shell.sh
 

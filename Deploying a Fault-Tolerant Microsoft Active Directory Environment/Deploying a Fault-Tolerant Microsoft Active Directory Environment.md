@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploying%20a%20Fault-Tolerant%20Microsoft%20Active%20Directory%20Environment/gsp118.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Deploying%20a%20Fault-Tolerant%20Microsoft%20Active%20Directory%20Environment/gsp118.sh
 
 sudo chmod +x gsp118.sh
 

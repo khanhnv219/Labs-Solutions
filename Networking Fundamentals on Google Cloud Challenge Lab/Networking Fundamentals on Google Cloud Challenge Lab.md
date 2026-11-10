@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Networking%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/arc124.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Networking%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/arc124.sh
 
 sudo chmod +x arc124.sh
 

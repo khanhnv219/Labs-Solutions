@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Autoscaling%20an%20Instance%20Group%20with%20Custom%20Cloud%20Monitoring%20Metrics/gsp087.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Autoscaling%20an%20Instance%20Group%20with%20Custom%20Cloud%20Monitoring%20Metrics/gsp087.sh
 
 sudo chmod +x gsp087.sh
 

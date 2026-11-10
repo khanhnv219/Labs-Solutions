@@ -10,7 +10,7 @@ export RULE_NAME=
 export TAGS=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Firewall%20Target%20Tag/arc142.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Firewall%20Target%20Tag/arc142.sh
 
 sudo chmod +x arc142.sh
 

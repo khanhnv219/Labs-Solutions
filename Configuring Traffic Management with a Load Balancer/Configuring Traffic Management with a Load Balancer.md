@@ -9,7 +9,7 @@ export ZONE_1=
 export ZONE_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Configuring%20Traffic%20Management%20with%20a%20Load%20Balancer/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Configuring%20Traffic%20Management%20with%20a%20Load%20Balancer/shell.sh
 
 sudo chmod +x shell.sh
 

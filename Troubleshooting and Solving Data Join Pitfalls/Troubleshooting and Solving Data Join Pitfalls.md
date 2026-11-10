@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Troubleshooting%20and%20Solving%20Data%20Join%20Pitfalls/gsp412.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Troubleshooting%20and%20Solving%20Data%20Join%20Pitfalls/gsp412.sh
 
 sudo chmod +x gsp412.sh
 

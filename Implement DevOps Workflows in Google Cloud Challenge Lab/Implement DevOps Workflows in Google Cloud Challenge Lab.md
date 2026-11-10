@@ -17,7 +17,7 @@
 ### Step 1: Download and Run Script Part 1
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-1.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-1.sh
 
 sudo chmod +x gsp330-1.sh
 
@@ -45,7 +45,7 @@ sudo chmod +x gsp330-1.sh
 ### Step 2: Download and Run Script Part 2
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-2.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-2.sh
 
 sudo chmod +x gsp330-2.sh
 

@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Network%20Tiers%20-%20Optimizing%20Network%20Spend/gsp219.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Network%20Tiers%20-%20Optimizing%20Network%20Spend/gsp219.sh
 
 sudo chmod +x gsp219.sh
 

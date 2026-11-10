@@ -5,7 +5,7 @@
 #### 1️⃣ Download and Execute the Script  
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Alerting%20in%20Google%20Cloud/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Alerting%20in%20Google%20Cloud/shell.sh
 
 sudo chmod +x *.sh
 

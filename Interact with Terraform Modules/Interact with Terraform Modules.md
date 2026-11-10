@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Interact%20with%20Terraform%20Modules/gsp751.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Interact%20with%20Terraform%20Modules/gsp751.sh
 
 sudo chmod +x gsp751.sh
 

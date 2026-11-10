@@ -9,7 +9,7 @@ export INSTANCE=
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploy%20and%20Troubleshoot%20a%20Website%20Challenge%20Lab/gsp101.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Deploy%20and%20Troubleshoot%20a%20Website%20Challenge%20Lab/gsp101.sh
 
 sudo chmod +x gsp101.sh
 

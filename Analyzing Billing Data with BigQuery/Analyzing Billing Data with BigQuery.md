@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Analyzing%20Billing%20Data%20with%20BigQuery/gsp621.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Analyzing%20Billing%20Data%20with%20BigQuery/gsp621.sh
 
 sudo chmod +x gsp621.sh
 

@@ -8,7 +8,7 @@ export ZONE_1=
 export ZONE_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Virtual%20Private%20Networks%20VPN/VPN.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Virtual%20Private%20Networks%20VPN/VPN.sh
 
 sudo chmod +x VPN.sh
 

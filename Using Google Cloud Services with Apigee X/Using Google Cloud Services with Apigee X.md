@@ -5,7 +5,7 @@
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Using%20Google%20Cloud%20Services%20with%20Apigee%20X/gsp845.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Using%20Google%20Cloud%20Services%20with%20Apigee%20X/gsp845.sh
 
 sudo chmod +x gsp845.sh
 

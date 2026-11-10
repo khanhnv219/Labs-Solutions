@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Spanner%20Qwik%20Start/gsp102.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20Spanner%20Qwik%20Start/gsp102.sh
 
 sudo chmod +x gsp102.sh
 

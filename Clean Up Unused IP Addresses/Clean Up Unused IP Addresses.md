@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Clean%20Up%20Unused%20IP%20Addresses/gsp646.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Clean%20Up%20Unused%20IP%20Addresses/gsp646.sh
 
 sudo chmod +x gsp646.sh
 

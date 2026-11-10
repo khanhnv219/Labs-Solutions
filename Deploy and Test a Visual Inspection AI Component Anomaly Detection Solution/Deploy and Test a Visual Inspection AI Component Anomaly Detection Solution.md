@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Deploy%20and%20Test%20a%20Visual%20Inspection%20AI%20Component%20Anomaly%20Detection%20Solution/gsp896.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Deploy%20and%20Test%20a%20Visual%20Inspection%20AI%20Component%20Anomaly%20Detection%20Solution/gsp896.sh
 
 sudo chmod +x gsp896.sh
 

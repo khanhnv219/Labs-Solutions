@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers/gsp007.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers/gsp007.sh
 
 sudo chmod +x gsp007.sh
 

@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20Databases%20in%20Compute%20Engine/db.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Creating%20Databases%20in%20Compute%20Engine/db.sh
 
 sudo chmod +x db.sh
 

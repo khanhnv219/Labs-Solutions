@@ -5,7 +5,7 @@
 ### Execute These Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Run%20Canary%20Deployments/gsp1078.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20Run%20Canary%20Deployments/gsp1078.sh
 
 sudo chmod +x gsp1078.sh
 

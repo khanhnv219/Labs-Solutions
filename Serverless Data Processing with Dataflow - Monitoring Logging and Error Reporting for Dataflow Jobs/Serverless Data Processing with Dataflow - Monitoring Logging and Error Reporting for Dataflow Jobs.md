@@ -7,7 +7,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Serverless%20Data%20Processing%20with%20Dataflow%20-%20Monitoring%20Logging%20and%20Error%20Reporting%20for%20Dataflow%20Jobs/cloudwalabanda.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Serverless%20Data%20Processing%20with%20Dataflow%20-%20Monitoring%20Logging%20and%20Error%20Reporting%20for%20Dataflow%20Jobs/cloudwalabanda.sh
 
 sudo chmod +x cloudwalabanda.sh
 

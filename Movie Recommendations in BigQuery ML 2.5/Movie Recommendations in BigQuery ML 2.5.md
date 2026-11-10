@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Movie%20Recommendations%20in%20BigQuery%20ML%202.5/MovieRecommendations.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Movie%20Recommendations%20in%20BigQuery%20ML%202.5/MovieRecommendations.sh
 
 sudo chmod +x MovieRecommendations.sh
 

@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20a%20Persistent%20Disk/gsp004.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Creating%20a%20Persistent%20Disk/gsp004.sh
 
 sudo chmod +x gsp004.sh
 

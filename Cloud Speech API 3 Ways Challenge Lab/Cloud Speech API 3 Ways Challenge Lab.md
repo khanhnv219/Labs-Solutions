@@ -22,7 +22,7 @@ export task_5_sentence=""
 export task_5_file=""
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Speech%20API%203%20Ways%20Challenge%20Lab/arc132.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20Speech%20API%203%20Ways%20Challenge%20Lab/arc132.sh
 
 sudo chmod +x arc132.sh
 

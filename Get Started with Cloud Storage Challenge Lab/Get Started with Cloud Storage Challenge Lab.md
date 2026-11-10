@@ -11,7 +11,7 @@ export BUCKET_3=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Get%20Started%20with%20Cloud%20Storage%20Challenge%20Lab/arc111.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Get%20Started%20with%20Cloud%20Storage%20Challenge%20Lab/arc111.sh
 
 sudo chmod +x arc111.sh
 

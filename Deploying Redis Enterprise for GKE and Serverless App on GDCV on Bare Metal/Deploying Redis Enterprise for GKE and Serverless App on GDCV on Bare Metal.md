@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Deploying%20Redis%20Enterprise%20for%20GKE%20and%20Serverless%20App%20on%20GDCV%20on%20Bare%20Metal/gsp938.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Deploying%20Redis%20Enterprise%20for%20GKE%20and%20Serverless%20App%20on%20GDCV%20on%20Bare%20Metal/gsp938.sh
 
 sudo chmod +x gsp938.sh
 

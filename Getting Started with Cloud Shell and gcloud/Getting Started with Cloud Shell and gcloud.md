@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Getting%20Started%20with%20Cloud%20Shell%20and%20gcloud/gsp002.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Getting%20Started%20with%20Cloud%20Shell%20and%20gcloud/gsp002.sh
 
 sudo chmod +x gsp002.sh
 

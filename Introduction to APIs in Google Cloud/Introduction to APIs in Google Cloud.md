@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Introduction%20to%20APIs%20in%20Google%20Cloud/gsp294.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Introduction%20to%20APIs%20in%20Google%20Cloud/gsp294.sh
 
 sudo chmod +x gsp294.sh
 

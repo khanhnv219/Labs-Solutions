@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Google%20Kubernetes%20Engine%20Security%20Binary%20Authorization/gsp479.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Google%20Kubernetes%20Engine%20Security%20Binary%20Authorization/gsp479.sh
 
 sudo chmod +x gsp479.sh
 

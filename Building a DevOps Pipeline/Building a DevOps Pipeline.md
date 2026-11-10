@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Building%20a%20DevOps%20Pipeline/shell-1.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Building%20a%20DevOps%20Pipeline/shell-1.sh
 
 sudo chmod +x shell-1.sh
 
@@ -18,7 +18,7 @@ sudo chmod +x shell-1.sh
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Building%20a%20DevOps%20Pipeline/shell-2.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Building%20a%20DevOps%20Pipeline/shell-2.sh
 
 sudo chmod +x shell-2.sh
 

@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Exploring%20NCAA%20Data%20with%20BigQuery/gsp160.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Exploring%20NCAA%20Data%20with%20BigQuery/gsp160.sh
 
 sudo chmod +x gsp160.sh
 

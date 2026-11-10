@@ -4,7 +4,7 @@
 
 ### Run the following Commands in SSH
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Natural%20Language%20API%20Qwik%20Start/gsp097.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20Natural%20Language%20API%20Qwik%20Start/gsp097.sh
 
 sudo chmod +x gsp097.sh
 

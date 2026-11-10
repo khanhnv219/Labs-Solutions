@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implementing%20Security%20in%20Dataplex/gsp1157.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Implementing%20Security%20in%20Dataplex/gsp1157.sh
 
 sudo chmod +x gsp1157.sh
 

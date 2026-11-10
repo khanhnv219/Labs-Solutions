@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Configuring%20Traffic%20Blocklisting%20with%20Google%20Cloud%20Armor/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Configuring%20Traffic%20Blocklisting%20with%20Google%20Cloud%20Armor/shell.sh
 
 sudo chmod +x shell.sh
 

@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Developing%20a%20REST%20API%20with%20Go%20and%20Cloud%20Run/gsp761.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Developing%20a%20REST%20API%20with%20Go%20and%20Cloud%20Run/gsp761.sh
 
 sudo chmod +x gsp761.sh
 

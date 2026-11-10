@@ -8,7 +8,7 @@
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Get%20Started%20with%20Eventarc%20Challenge%20Lab/arc118.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Get%20Started%20with%20Eventarc%20Challenge%20Lab/arc118.sh
 
 sudo chmod +x arc118.sh
 

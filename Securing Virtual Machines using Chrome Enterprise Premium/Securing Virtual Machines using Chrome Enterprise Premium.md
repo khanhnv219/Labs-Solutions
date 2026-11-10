@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Securing%20Virtual%20Machines%20using%20Chrome%20Enterprise%20Premium/gsp1036.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Securing%20Virtual%20Machines%20using%20Chrome%20Enterprise%20Premium/gsp1036.sh
 
 sudo chmod +x gsp1036.sh
 

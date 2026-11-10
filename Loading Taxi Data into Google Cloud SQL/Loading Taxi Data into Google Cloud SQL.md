@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Loading%20Taxi%20Data%20into%20Google%20Cloud%20SQL/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Loading%20Taxi%20Data%20into%20Google%20Cloud%20SQL/shell.sh
 
 sudo chmod +x shell.sh
 

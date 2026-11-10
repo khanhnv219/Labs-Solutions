@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20a%20Data%20Warehouse%20Through%20Joins%20and%20Unions/gsp413.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Creating%20a%20Data%20Warehouse%20Through%20Joins%20and%20Unions/gsp413.sh
 
 sudo chmod +x gsp413.sh
 

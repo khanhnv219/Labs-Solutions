@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Dataproc%20Qwik%20Start%20-%20Command%20Line/gsp104.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Dataproc%20Qwik%20Start%20-%20Command%20Line/gsp104.sh
 
 sudo chmod +x gsp104.sh
 

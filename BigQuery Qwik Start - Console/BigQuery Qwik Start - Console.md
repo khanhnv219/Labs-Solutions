@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/BigQuery%20Qwik%20Start%20-%20Console/gsp072.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/BigQuery%20Qwik%20Start%20-%20Console/gsp072.sh
 
 sudo chmod +x gsp072.sh
 

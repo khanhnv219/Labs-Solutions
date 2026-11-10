@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Develop%20an%20App%20with%20Vertex%20AI%20Gemini%201.0%20Pro/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Develop%20an%20App%20with%20Vertex%20AI%20Gemini%201.0%20Pro/shell.sh
 
 sudo chmod +x shell.sh
 

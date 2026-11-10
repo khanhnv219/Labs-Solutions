@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Serverless%20Data%20Processing%20with%20Dataflow%20-%20Advanced%20Streaming%20Analytics%20Pipeline%20with%20Cloud%20Dataflow%20Java/cloudwalabanda.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Serverless%20Data%20Processing%20with%20Dataflow%20-%20Advanced%20Streaming%20Analytics%20Pipeline%20with%20Cloud%20Dataflow%20Java/cloudwalabanda.sh
 source cloudwalabanda.sh
 ```
 

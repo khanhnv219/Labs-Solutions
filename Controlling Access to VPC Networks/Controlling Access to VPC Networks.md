@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Controlling%20Access%20to%20VPC%20Networks/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Controlling%20Access%20to%20VPC%20Networks/shell.sh
 
 sudo chmod +x shell.sh
 

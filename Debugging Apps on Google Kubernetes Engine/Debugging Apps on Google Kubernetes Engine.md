@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Debugging%20Apps%20on%20Google%20Kubernetes%20Engine/gsp736.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Debugging%20Apps%20on%20Google%20Kubernetes%20Engine/gsp736.sh
 
 sudo chmod +x gsp736.sh
 

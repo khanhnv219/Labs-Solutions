@@ -27,7 +27,7 @@ customers
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Integrating%20Cloud%20Functions%20with%20Firestore/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Integrating%20Cloud%20Functions%20with%20Firestore/shell.sh
 
 sudo chmod +x shell.sh
 

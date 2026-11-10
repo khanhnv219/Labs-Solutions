@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Distributed%20Load%20Testing%20Using%20Kubernetes/gsp182.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Distributed%20Load%20Testing%20Using%20Kubernetes/gsp182.sh
 
 sudo chmod +x gsp182.sh
 

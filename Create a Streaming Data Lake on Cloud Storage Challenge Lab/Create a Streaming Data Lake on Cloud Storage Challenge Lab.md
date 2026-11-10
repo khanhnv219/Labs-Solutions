@@ -9,7 +9,7 @@ export TOPIC=
 export MESSAGE=""
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Create%20a%20Streaming%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/arc110.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Create%20a%20Streaming%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/arc110.sh
 
 sudo chmod +x arc110.sh
 

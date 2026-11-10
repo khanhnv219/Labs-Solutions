@@ -13,7 +13,7 @@ export TOPIC_NAME=
 export FUNCTION_NAME=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud%20Challenge%20Lab/gsp315.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud%20Challenge%20Lab/gsp315.sh
 
 sudo chmod +x gsp315.sh
 

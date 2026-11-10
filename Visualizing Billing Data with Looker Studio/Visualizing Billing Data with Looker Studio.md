@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Visualizing%20Billing%20Data%20with%20Looker%20Studio/gsp622.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Visualizing%20Billing%20Data%20with%20Looker%20Studio/gsp622.sh
 
 sudo chmod +x gsp622.sh
 

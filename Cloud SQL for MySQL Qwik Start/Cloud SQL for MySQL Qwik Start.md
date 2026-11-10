@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20SQL%20for%20MySQL%20Qwik%20Start/gsp151.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20SQL%20for%20MySQL%20Qwik%20Start/gsp151.sh
 
 sudo chmod +x gsp151.sh
 

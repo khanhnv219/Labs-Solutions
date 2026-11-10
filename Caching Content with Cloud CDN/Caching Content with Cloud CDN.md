@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Caching%20Content%20with%20Cloud%20CDN/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Caching%20Content%20with%20Cloud%20CDN/shell.sh
 
 sudo chmod +x shell.sh
 

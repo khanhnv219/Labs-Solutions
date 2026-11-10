@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Explore%20an%20Ecommerce%20Dataset%20with%20SQL%20in%20BigQuery/gsp407.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Explore%20an%20Ecommerce%20Dataset%20with%20SQL%20in%20BigQuery/gsp407.sh
 
 sudo chmod +x gsp407.sh
 

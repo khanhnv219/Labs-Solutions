@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Bracketology%20with%20Google%20Machine%20Learning/gsp461.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Bracketology%20with%20Google%20Machine%20Learning/gsp461.sh
 
 sudo chmod +x gsp461.sh
 

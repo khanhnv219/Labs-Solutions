@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Migrating%20a%20Monolithic%20Website%20to%20Microservices%20on%20Google%20Kubernetes%20Engine/gsp699.sh
+curl -LO https://raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Migrating%20a%20Monolithic%20Website%20to%20Microservices%20on%20Google%20Kubernetes%20Engine/gsp699.sh
 
 sudo chmod +x gsp699.sh
 

@@ -5,7 +5,7 @@
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Cloud%20Operations%20for%20GKE/gsp497.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Cloud%20Operations%20for%20GKE/gsp497.sh
 
 sudo chmod +x gsp497.sh
 

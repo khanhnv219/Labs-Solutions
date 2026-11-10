@@ -9,7 +9,7 @@ export ZONE_1=
 export ZONE_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/VPC%20Networking%20Cloud%20HA-VPN/gsp619.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/VPC%20Networking%20Cloud%20HA-VPN/gsp619.sh
 
 sudo chmod +x gsp619.sh
 

@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Tagging%20Dataplex%20Assets/gsp1145.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Tagging%20Dataplex%20Assets/gsp1145.sh
 
 sudo chmod +x gsp1145.sh
 

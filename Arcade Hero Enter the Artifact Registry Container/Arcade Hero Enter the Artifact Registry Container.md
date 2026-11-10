@@ -9,7 +9,7 @@ export REPO=
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Artifact%20Registry%20Container/arc150.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Artifact%20Registry%20Container/arc150.sh
 
 sudo chmod +x arc150.sh
 

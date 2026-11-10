@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Working%20with%20Artifact%20Registry/gsp1076-1.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Working%20with%20Artifact%20Registry/gsp1076-1.sh
 
 sudo chmod +x gsp1076-1.sh
 
@@ -20,7 +20,7 @@ sudo chmod +x gsp1076-1.sh
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Working%20with%20Artifact%20Registry/gsp1076-2.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Working%20with%20Artifact%20Registry/gsp1076-2.sh
 
 sudo chmod +x gsp1076-2.sh
 

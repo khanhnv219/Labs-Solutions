@@ -12,7 +12,7 @@ export DATASET2=
 export TABLE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20BigQuery%20Table/arc130.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20BigQuery%20Table/arc130.sh
 
 sudo chmod +x arc130.sh
 

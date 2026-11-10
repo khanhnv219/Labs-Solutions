@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Multiple%20VPC%20Networks/gsp211.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Multiple%20VPC%20Networks/gsp211.sh
 
 sudo chmod +x gsp211.sh
 

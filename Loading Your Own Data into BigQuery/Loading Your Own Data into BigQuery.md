@@ -5,7 +5,7 @@
 ### Execute the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Loading%20Your%20Own%20Data%20into%20BigQuery/gsp865.sh
+curl -LO https://raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Loading%20Your%20Own%20Data%20into%20BigQuery/gsp865.sh
 
 sudo chmod +x *.sh
 

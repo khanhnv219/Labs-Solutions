@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Arcade%20Hero%20Enter%20the%20PubSub/arc123-pubsub.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Arcade%20Hero%20Enter%20the%20PubSub/arc123-pubsub.sh
 
 sudo chmod +x *.sh
 

@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Vertex%20AI%20Qwik%20Start/gsp917.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Vertex%20AI%20Qwik%20Start/gsp917.sh
 
 sudo chmod +x gsp917.sh
 

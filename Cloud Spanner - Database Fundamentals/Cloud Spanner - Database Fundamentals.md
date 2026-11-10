@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Spanner%20-%20Database%20Fundamentals/gsp1048.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20Spanner%20-%20Database%20Fundamentals/gsp1048.sh
 
 sudo chmod +x gsp1048.sh
 

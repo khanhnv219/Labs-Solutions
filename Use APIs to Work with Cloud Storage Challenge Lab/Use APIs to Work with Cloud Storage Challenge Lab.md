@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Use%20APIs%20to%20Work%20with%20Cloud%20Storage%20Challenge%20Lab/arc125.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Use%20APIs%20to%20Work%20with%20Cloud%20Storage%20Challenge%20Lab/arc125.sh
 
 sudo chmod +x arc125.sh
 

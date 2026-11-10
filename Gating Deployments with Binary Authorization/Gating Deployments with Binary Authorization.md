@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Gating%20Deployments%20with%20Binary%20Authorization/gsp1183.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Gating%20Deployments%20with%20Binary%20Authorization/gsp1183.sh
 
 sudo chmod +x gsp1183.sh
 

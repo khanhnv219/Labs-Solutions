@@ -7,7 +7,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/App%20Engine%20Qwik%20Start%20-%20Java/gsp068.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/App%20Engine%20Qwik%20Start%20-%20Java/gsp068.sh
 
 sudo chmod +x gsp068.sh
 

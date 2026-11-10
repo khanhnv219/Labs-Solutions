@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Working%20with%20the%20Google%20Cloud%20Console%20and%20Cloud%20Shell/cloudwalabanda.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Working%20with%20the%20Google%20Cloud%20Console%20and%20Cloud%20Shell/cloudwalabanda.sh
 
 sudo chmod +x cloudwalabanda.sh
 

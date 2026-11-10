@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Awwvision%20Cloud%20Vision%20API%20from%20a%20Kubernetes%20Cluster/gsp066.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Awwvision%20Cloud%20Vision%20API%20from%20a%20Kubernetes%20Cluster/gsp066.sh
 
 sudo chmod +x gsp066.sh
 

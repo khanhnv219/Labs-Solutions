@@ -5,7 +5,7 @@
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Develop%20and%20Secure%20APIs%20with%20Apigee%20X%20Challenge%20Lab/gsp363.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Develop%20and%20Secure%20APIs%20with%20Apigee%20X%20Challenge%20Lab/gsp363.sh
 
 sudo chmod +x gsp363.sh
 

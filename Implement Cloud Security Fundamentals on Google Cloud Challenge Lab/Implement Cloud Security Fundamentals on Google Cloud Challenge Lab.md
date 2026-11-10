@@ -11,7 +11,7 @@ export CLUSTER=
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implement%20Cloud%20Security%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/gsp342.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Implement%20Cloud%20Security%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/gsp342.sh
 
 sudo chmod +x gsp342.sh
 

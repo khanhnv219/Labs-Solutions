@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Configure%20Service%20Accounts%20and%20IAM%20for%20Google%20Cloud%20Challenge%20Lab/arc134.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Configure%20Service%20Accounts%20and%20IAM%20for%20Google%20Cloud%20Challenge%20Lab/arc134.sh
 
 sudo chmod +x arc134.sh
 

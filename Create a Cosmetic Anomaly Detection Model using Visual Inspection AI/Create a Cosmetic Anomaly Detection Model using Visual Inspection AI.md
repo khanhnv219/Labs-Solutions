@@ -5,7 +5,7 @@
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Create%20a%20Cosmetic%20Anomaly%20Detection%20Model%20using%20Visual%20Inspection%20AI/gsp897.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Create%20a%20Cosmetic%20Anomaly%20Detection%20Model%20using%20Visual%20Inspection%20AI/gsp897.sh
 
 sudo chmod +x gsp897.sh
 

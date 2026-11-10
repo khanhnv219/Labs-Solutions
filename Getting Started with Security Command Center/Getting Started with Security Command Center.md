@@ -5,7 +5,7 @@
 ### Task 3. Analyze and fix SCC vulnerability findings
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Getting%20Started%20with%20Security%20Command%20Center/gsp1124.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Getting%20Started%20with%20Security%20Command%20Center/gsp1124.sh
 
 sudo chmod +x gsp1124.sh
 

@@ -12,7 +12,7 @@ export TOPIC=
 export FUNCTION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%20Challenge%20Lab/arc100.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%20Challenge%20Lab/arc100.sh
 
 sudo chmod +x arc100.sh
 

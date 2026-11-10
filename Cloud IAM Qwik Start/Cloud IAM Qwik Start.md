@@ -6,7 +6,7 @@
 export USER_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20IAM%20Qwik%20Start/GSP064.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20IAM%20Qwik%20Start/GSP064.sh
 
 sudo chmod +x GSP064.sh
 

@@ -9,7 +9,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Monitor%20a%20Compute%20Engine%20Virtual%20Machine%20Qwik%20Start/gsp1108.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Monitor%20a%20Compute%20Engine%20Virtual%20Machine%20Qwik%20Start/gsp1108.sh
 
 sudo chmod +x gsp1108.sh
 

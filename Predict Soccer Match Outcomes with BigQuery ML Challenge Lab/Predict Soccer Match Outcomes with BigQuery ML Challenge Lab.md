@@ -24,7 +24,7 @@ export FUNCTION_2=
 export MODEL_NAME=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Predict%20Soccer%20Match%20Outcomes%20with%20BigQuery%20ML%20Challenge%20Lab/gsp374.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Predict%20Soccer%20Match%20Outcomes%20with%20BigQuery%20ML%20Challenge%20Lab/gsp374.sh
 
 sudo chmod +x gsp374.sh
 

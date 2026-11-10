@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Ingesting%20New%20Datasets%20into%20BigQuery/gsp411.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Ingesting%20New%20Datasets%20into%20BigQuery/gsp411.sh
 
 sudo chmod +x gsp411.sh
 

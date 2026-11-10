@@ -7,7 +7,7 @@
 export ZONE_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/VPC%20Networking%20Fundamentals/gsp210.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/VPC%20Networking%20Fundamentals/gsp210.sh
 
 sudo chmod +x gsp210.sh
 

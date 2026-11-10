@@ -8,7 +8,7 @@
 export DATASET=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20BigQuery/arc121-bigquery.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20BigQuery/arc121-bigquery.sh
 
 sudo chmod +x arc121-bigquery.sh
 

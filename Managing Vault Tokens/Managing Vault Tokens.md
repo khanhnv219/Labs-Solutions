@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Managing%20Vault%20Tokens/gsp1006.sh
+curl -LO https://raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Managing%20Vault%20Tokens/gsp1006.sh
 
 sudo chmod +x gsp1006.sh
 

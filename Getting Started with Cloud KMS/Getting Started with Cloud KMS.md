@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Getting%20Started%20with%20Cloud%20KMS/gsp079.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Getting%20Started%20with%20Cloud%20KMS/gsp079.sh
 
 sudo chmod +x gsp079.sh
 

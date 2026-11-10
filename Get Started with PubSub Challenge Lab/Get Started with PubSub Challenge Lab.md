@@ -13,7 +13,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_1.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_1.sh
 
 sudo chmod +x form_1.sh
 
@@ -37,7 +37,7 @@ sudo chmod +x form_1.sh
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_2.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_2.sh
 
 sudo chmod +x form_2.sh
 
@@ -60,7 +60,7 @@ sudo chmod +x form_2.sh
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_3.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_3.sh
 
 sudo chmod +x form_3.sh
 

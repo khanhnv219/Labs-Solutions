@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-1.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-1.sh
 
 sudo chmod +x gsp852-1.sh
 
@@ -42,7 +42,7 @@ GROUP BY
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-2.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-2.sh
 
 sudo chmod +x gsp852-2.sh
 

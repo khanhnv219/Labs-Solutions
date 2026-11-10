@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Running%20a%20MongoDB%20Database%20in%20Kubernetes%20with%20StatefulSets/gsp022.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Running%20a%20MongoDB%20Database%20in%20Kubernetes%20with%20StatefulSets/gsp022.sh
 
 sudo chmod +x gsp022.sh
 

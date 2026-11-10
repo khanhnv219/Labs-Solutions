@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/PubSub%20Qwik%20Start%20-%20Python/gsp094.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/PubSub%20Qwik%20Start%20-%20Python/gsp094.sh
 
 sudo chmod +x gsp094.sh
 

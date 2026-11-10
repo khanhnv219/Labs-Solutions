@@ -5,7 +5,7 @@
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Implement%20Sensitive%20Data%20Protection%20on%20Google%20Cloud%20Challenge%20Lab/arc116.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Implement%20Sensitive%20Data%20Protection%20on%20Google%20Cloud%20Challenge%20Lab/arc116.sh
 
 sudo chmod +x *.sh
 

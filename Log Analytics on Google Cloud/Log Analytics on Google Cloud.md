@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Log%20Analytics%20on%20Google%20Cloud/gsp1088.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Log%20Analytics%20on%20Google%20Cloud/gsp1088.sh
 
 sudo chmod +x gsp1088.sh
 

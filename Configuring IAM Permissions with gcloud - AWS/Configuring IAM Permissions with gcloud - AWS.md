@@ -19,7 +19,7 @@ gcloud --version
 gcloud auth login --no-launch-browser --quiet
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gcloud%20-%20AWS/gsp1126.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gcloud%20-%20AWS/gsp1126.sh
 sudo chmod +x gsp1126.sh
 ./gsp1126.sh
 ```

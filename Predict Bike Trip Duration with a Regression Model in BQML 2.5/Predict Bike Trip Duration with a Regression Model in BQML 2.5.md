@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Predict%20Bike%20Trip%20Duration%20with%20a%20Regression%20Model%20in%20BQML%202.5/RegressionModel.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Predict%20Bike%20Trip%20Duration%20with%20a%20Regression%20Model%20in%20BQML%202.5/RegressionModel.sh
 
 sudo chmod +x RegressionModel.sh
 

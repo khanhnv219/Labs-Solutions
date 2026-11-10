@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Streaming%20Data%20to%20Bigtable/gsp1055-1.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Streaming%20Data%20to%20Bigtable/gsp1055-1.sh
 
 sudo chmod +x gsp1055-1.sh
 
@@ -18,7 +18,7 @@ sudo chmod +x gsp1055-1.sh
 ### Run the following Commands in `2nd` CloudShell tab
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Streaming%20Data%20to%20Bigtable/gsp1055-2.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Streaming%20Data%20to%20Bigtable/gsp1055-2.sh
 
 sudo chmod +x gsp1055-2.sh
 

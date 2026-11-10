@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Migrate%20a%20MySQL%20Database%20to%20Google%20Cloud%20SQL%20Challenge%20Lab/gsp306.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Migrate%20a%20MySQL%20Database%20to%20Google%20Cloud%20SQL%20Challenge%20Lab/gsp306.sh
 
 sudo chmod +x gsp306.sh
 

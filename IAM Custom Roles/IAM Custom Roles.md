@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/IAM%20Custom%20Roles/gsp190.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/IAM%20Custom%20Roles/gsp190.sh
 
 sudo chmod +x gsp190.sh
 

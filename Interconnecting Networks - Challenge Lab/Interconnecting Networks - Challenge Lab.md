@@ -5,7 +5,7 @@
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Interconnecting%20Networks%20-%20Challenge%20Lab/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Interconnecting%20Networks%20-%20Challenge%20Lab/shell.sh
 
 sudo chmod +x *.sh
 

@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/BigQuery%20Soccer%20Data%20Analysis/gsp849.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/BigQuery%20Soccer%20Data%20Analysis/gsp849.sh
 
 sudo chmod +x gsp849.sh
 

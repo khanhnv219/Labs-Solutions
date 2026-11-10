@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Securing%20Virtual%20Machines%20using%20BeyondCorp%20Enterprise%20BCE/gsp1036.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Securing%20Virtual%20Machines%20using%20BeyondCorp%20Enterprise%20BCE/gsp1036.sh
 
 sudo chmod +x gsp1036.sh
 

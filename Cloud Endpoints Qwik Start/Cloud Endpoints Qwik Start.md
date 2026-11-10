@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Cloud%20Endpoints%20Qwik%20Start/gsp164.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Cloud%20Endpoints%20Qwik%20Start/gsp164.sh
 
 sudo chmod +x gsp164.sh
 

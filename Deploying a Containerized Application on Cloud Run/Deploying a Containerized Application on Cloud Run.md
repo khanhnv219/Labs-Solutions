@@ -9,7 +9,7 @@ export REGION=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploying%20a%20Containerized%20Application%20on%20Cloud%20Run/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Deploying%20a%20Containerized%20Application%20on%20Cloud%20Run/shell.sh
 
 sudo chmod +x shell.sh
 

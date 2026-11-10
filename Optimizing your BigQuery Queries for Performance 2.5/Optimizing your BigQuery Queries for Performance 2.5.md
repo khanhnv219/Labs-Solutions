@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Optimizing%20your%20BigQuery%20Queries%20for%20Performance%202.5/BigQuery.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Optimizing%20your%20BigQuery%20Queries%20for%20Performance%202.5/BigQuery.sh
 
 sudo chmod +x BigQuery.sh
 

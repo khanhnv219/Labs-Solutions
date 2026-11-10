@@ -9,7 +9,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Loading%20Data%20into%20Cloud%20SQL/gsp196.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Loading%20Data%20into%20Cloud%20SQL/gsp196.sh
 
 sudo chmod +x gsp196.sh
 

@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Securing%20Cloud%20Applications%20with%20Identity%20Aware%20Proxy%20IAP%20using%20Zero-Trust/gsp946.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Securing%20Cloud%20Applications%20with%20Identity%20Aware%20Proxy%20IAP%20using%20Zero-Trust/gsp946.sh
 
 sudo chmod +x gsp946.sh
 

@@ -5,7 +5,7 @@
 ### Download and Execute the Script
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Service%20Monitoring/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Service%20Monitoring/shell.sh
 
 sudo chmod +x *.sh
 

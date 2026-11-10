@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20and%20Manage%20AlloyDB%20Instances%20Challenge%20Lab/gsp395.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Create%20and%20Manage%20AlloyDB%20Instances%20Challenge%20Lab/gsp395.sh
 
 sudo chmod +x gsp395.sh
 

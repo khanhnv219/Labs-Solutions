@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Deploying%20Apps%20to%20Google%20Cloud/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Deploying%20Apps%20to%20Google%20Cloud/shell.sh
 
 sudo chmod +x shell.sh
 

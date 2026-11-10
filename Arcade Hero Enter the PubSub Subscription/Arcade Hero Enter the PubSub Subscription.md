@@ -12,7 +12,7 @@ export TOPIC_ID2=
 export SUBS_ID=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20PubSub%20Subscription/arc124.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20PubSub%20Subscription/arc124.sh
 
 sudo chmod +x arc124.sh
 

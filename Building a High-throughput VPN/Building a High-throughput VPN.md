@@ -9,7 +9,7 @@ export ZONE=
 export ZONE_1=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Building%20a%20High-throughput%20VPN/gsp062.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Building%20a%20High-throughput%20VPN/gsp062.sh
 
 sudo chmod +x gsp062.sh
 

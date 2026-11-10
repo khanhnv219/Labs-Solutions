@@ -10,7 +10,7 @@ export ZONE_1=
 export ZONE_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Getting%20Started%20with%20VPC%20Networking%20and%20Google%20Compute%20Engine/vpc.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Getting%20Started%20with%20VPC%20Networking%20and%20Google%20Compute%20Engine/vpc.sh
 
 sudo chmod +x vpc.sh
 

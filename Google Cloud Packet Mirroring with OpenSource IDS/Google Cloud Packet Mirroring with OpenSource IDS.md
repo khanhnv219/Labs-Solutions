@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Google%20Cloud%20Packet%20Mirroring%20with%20OpenSource%20IDS/gsp474.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Google%20Cloud%20Packet%20Mirroring%20with%20OpenSource%20IDS/gsp474.sh
 
 sudo chmod +x gsp474.sh
 

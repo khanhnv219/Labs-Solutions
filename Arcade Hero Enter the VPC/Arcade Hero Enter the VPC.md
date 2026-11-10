@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Arcade%20Hero%20Enter%20the%20VPC/arc122-vpc.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Arcade%20Hero%20Enter%20the%20VPC/arc122-vpc.sh
 
 sudo chmod +x *.sh
 

@@ -7,7 +7,7 @@
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Ingesting%20FHIR%20Data%20with%20the%20Healthcare%20API/gsp457.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Ingesting%20FHIR%20Data%20with%20the%20Healthcare%20API/gsp457.sh
 
 sudo chmod +x gsp457.sh
 

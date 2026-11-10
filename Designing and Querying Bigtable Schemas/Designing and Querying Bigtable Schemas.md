@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Designing%20and%20Querying%20Bigtable%20Schemas/gsp1053.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Designing%20and%20Querying%20Bigtable%20Schemas/gsp1053.sh
 
 sudo chmod +x gsp1053.sh
 

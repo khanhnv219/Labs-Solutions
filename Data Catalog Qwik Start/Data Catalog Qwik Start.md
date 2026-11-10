@@ -8,7 +8,7 @@
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Data%20Catalog%20Qwik%20Start/gsp729.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Data%20Catalog%20Qwik%20Start/gsp729.sh
 
 sudo chmod +x gsp729.sh
 

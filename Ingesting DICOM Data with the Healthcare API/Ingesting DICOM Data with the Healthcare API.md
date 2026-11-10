@@ -7,7 +7,7 @@
 export REGION=
 ``` 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Ingesting%20DICOM%20Data%20with%20the%20Healthcare%20API/gsp615.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Ingesting%20DICOM%20Data%20with%20the%20Healthcare%20API/gsp615.sh
 
 sudo chmod +x gsp615.sh
 

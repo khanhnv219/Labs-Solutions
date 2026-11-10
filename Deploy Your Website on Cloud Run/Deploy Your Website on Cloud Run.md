@@ -7,7 +7,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploy%20Your%20Website%20on%20Cloud%20Run/gsp659.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Deploy%20Your%20Website%20on%20Cloud%20Run/gsp659.sh
 
 sudo chmod +x gsp659.sh
 

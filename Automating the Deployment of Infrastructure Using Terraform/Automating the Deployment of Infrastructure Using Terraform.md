@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/cloudwalabanda.sh
+curl -LO https://raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/cloudwalabanda.sh
 
 sudo chmod +x cloudwalabanda.sh
 

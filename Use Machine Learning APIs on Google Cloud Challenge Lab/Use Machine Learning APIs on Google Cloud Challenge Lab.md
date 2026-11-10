@@ -11,7 +11,7 @@ export BQ_ROLE=
 export STORAGE_ROLE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Use%20Machine%20Learning%20APIs%20on%20Google%20Cloud%20Challenge%20Lab/gsp329.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Use%20Machine%20Learning%20APIs%20on%20Google%20Cloud%20Challenge%20Lab/gsp329.sh
 
 sudo chmod +x gsp329.sh
 

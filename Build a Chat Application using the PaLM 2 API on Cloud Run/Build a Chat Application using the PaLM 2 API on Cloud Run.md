@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Build%20a%20Chat%20Application%20using%20the%20PaLM%202%20API%20on%20Cloud%20Run/gsp1201.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Build%20a%20Chat%20Application%20using%20the%20PaLM%202%20API%20on%20Cloud%20Run/gsp1201.sh
 
 sudo chmod +x gsp1201.sh
 

@@ -10,7 +10,7 @@ export USER_2=
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Exploring%20IAM/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Exploring%20IAM/shell.sh
 
 sudo chmod +x shell.sh
 

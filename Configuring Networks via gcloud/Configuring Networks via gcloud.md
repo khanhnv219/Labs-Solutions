@@ -10,7 +10,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Configuring%20Networks%20via%20gcloud/gsp630.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Configuring%20Networks%20via%20gcloud/gsp630.sh
 
 sudo chmod +x gsp630.sh
 

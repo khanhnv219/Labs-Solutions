@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implementing%20Least%20Privilege%20IAM%20Policy%20Bindings%20in%20Cloud%20Run%20%5BAPPRUN%5D/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Implementing%20Least%20Privilege%20IAM%20Policy%20Bindings%20in%20Cloud%20Run%20%5BAPPRUN%5D/shell.sh
 
 sudo chmod +x shell.sh
 

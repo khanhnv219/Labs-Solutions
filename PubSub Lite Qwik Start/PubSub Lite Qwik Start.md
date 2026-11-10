@@ -8,7 +8,7 @@
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/PubSub%20Lite%20Qwik%20Start/gsp832.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/PubSub%20Lite%20Qwik%20Start/gsp832.sh
 
 sudo chmod +x gsp832.sh
 

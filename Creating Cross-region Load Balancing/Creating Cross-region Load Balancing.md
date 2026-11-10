@@ -8,7 +8,7 @@
 export ZONE_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Creating%20Cross-region%20Load%20Balancing/gsp157.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Creating%20Cross-region%20Load%20Balancing/gsp157.sh
 
 sudo chmod +x gsp157.sh
 

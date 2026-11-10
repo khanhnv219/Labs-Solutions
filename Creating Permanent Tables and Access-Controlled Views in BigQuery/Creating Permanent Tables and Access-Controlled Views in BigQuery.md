@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20Permanent%20Tables%20and%20Access-Controlled%20Views%20in%20BigQuery/gsp410.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Creating%20Permanent%20Tables%20and%20Access-Controlled%20Views%20in%20BigQuery/gsp410.sh
 
 sudo chmod +x gsp410.sh
 

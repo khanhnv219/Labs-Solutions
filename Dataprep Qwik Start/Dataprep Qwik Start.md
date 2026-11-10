@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Dataprep%20Qwik%20Start/gsp105.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Dataprep%20Qwik%20Start/gsp105.sh
 
 sudo chmod +x gsp105.sh
 

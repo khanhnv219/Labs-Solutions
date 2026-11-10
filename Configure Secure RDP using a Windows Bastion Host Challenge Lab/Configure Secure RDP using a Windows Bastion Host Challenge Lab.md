@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Configure%20Secure%20RDP%20using%20a%20Windows%20Bastion%20Host%20Challenge%20Lab/gsp303.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Configure%20Secure%20RDP%20using%20a%20Windows%20Bastion%20Host%20Challenge%20Lab/gsp303.sh
 
 sudo chmod +x gsp303.sh
 

@@ -10,7 +10,7 @@ export ZONE=
 export ZONE_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/VPC%20Network%20Peering/gsp193.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/VPC%20Network%20Peering/gsp193.sh
 
 sudo chmod +x gsp193.sh
 

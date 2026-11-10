@@ -16,7 +16,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Audit%20Logs/Audit-Logs.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20Audit%20Logs/Audit-Logs.sh
 
 sudo chmod +x Audit-Logs.sh
 

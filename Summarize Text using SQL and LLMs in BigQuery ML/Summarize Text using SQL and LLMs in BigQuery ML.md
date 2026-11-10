@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Summarize%20Text%20using%20SQL%20and%20LLMs%20in%20BigQuery%20ML/gsp835.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Summarize%20Text%20using%20SQL%20and%20LLMs%20in%20BigQuery%20ML/gsp835.sh
 
 sudo chmod +x gsp835.sh
 

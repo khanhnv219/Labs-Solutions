@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Connecting%20Cloud%20Functions/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Connecting%20Cloud%20Functions/shell.sh
 
 sudo chmod +x shell.sh
 

@@ -5,7 +5,7 @@
 ### 🚀 **Commands to Execute in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Securing%20APIs%20with%20Apigee%20X/gsp844.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Securing%20APIs%20with%20Apigee%20X/gsp844.sh
 
 sudo chmod +x gsp844.sh
 

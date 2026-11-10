@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Logging%20on%20Kubernetes%20Engine/gsp483.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Cloud%20Logging%20on%20Kubernetes%20Engine/gsp483.sh
 
 sudo chmod +x gsp483.sh
 

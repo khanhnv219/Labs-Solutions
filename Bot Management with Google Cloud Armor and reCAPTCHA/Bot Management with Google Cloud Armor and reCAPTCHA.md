@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Bot%20Management%20with%20Google%20Cloud%20Armor%20and%20reCAPTCHA/gsp877.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Bot%20Management%20with%20Google%20Cloud%20Armor%20and%20reCAPTCHA/gsp877.sh
 
 sudo chmod +x gsp877.sh
 

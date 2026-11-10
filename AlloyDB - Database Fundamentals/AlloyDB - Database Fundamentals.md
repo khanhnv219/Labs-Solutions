@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/AlloyDB%20-%20Database%20Fundamentals/gsp1083-1.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/AlloyDB%20-%20Database%20Fundamentals/gsp1083-1.sh
 
 sudo chmod +x gsp1083-1.sh
 
@@ -47,7 +47,7 @@ INSERT INTO regions VALUES ( 4, 'Middle East and Africa' );
 exit
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/AlloyDB%20-%20Database%20Fundamentals/gsp1083-2.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/AlloyDB%20-%20Database%20Fundamentals/gsp1083-2.sh
 
 sudo chmod +x gsp1083-2.sh
 

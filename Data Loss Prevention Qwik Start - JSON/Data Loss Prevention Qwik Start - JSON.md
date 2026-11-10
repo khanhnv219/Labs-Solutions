@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Data%20Loss%20Prevention%20Qwik%20Start%20-%20JSON/gsp107.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Data%20Loss%20Prevention%20Qwik%20Start%20-%20JSON/gsp107.sh
 
 sudo chmod +x gsp107.sh
 

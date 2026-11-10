@@ -7,7 +7,7 @@
 export ZONE=
 ``` 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Streaming%20HL7%20to%20FHIR%20Data%20with%20Dataflow%20and%20the%20Healthcare%20API/gsp894.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Streaming%20HL7%20to%20FHIR%20Data%20with%20Dataflow%20and%20the%20Healthcare%20API/gsp894.sh
 
 sudo chmod +x gsp894.sh
 

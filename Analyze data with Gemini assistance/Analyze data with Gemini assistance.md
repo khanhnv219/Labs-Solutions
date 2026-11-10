@@ -5,7 +5,7 @@
 ### 🚀 **Execute the Following Commands in Cloud Shell:**
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Analyze%20data%20with%20Gemini%20assistance/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Analyze%20data%20with%20Gemini%20assistance/shell.sh
 
 sudo chmod +x shell.sh
 

@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Securing%20Google%20Cloud%20with%20CFT%20Scorecard/gsp698.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Securing%20Google%20Cloud%20with%20CFT%20Scorecard/gsp698.sh
 
 sudo chmod +x gsp698.sh
 

@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Service%20Accounts%20and%20Roles%20Fundamentals/gsp199.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Service%20Accounts%20and%20Roles%20Fundamentals/gsp199.sh
 
 sudo chmod +x gsp199.sh
 

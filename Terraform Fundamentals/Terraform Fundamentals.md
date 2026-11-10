@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Terraform%20Fundamentals/gsp156.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Terraform%20Fundamentals/gsp156.sh
 
 sudo chmod +x gsp156.sh
 

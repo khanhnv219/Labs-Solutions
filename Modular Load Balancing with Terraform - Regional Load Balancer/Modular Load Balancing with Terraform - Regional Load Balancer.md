@@ -8,7 +8,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Modular%20Load%20Balancing%20with%20Terraform%20-%20Regional%20Load%20Balancer/gsp191.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Modular%20Load%20Balancing%20with%20Terraform%20-%20Regional%20Load%20Balancer/gsp191.sh
 
 sudo chmod +x gsp191.sh
 

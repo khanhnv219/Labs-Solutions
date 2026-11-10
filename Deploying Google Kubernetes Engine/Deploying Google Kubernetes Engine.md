@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploying%20Google%20Kubernetes%20Engine/Deploying-GKE.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Deploying%20Google%20Kubernetes%20Engine/Deploying-GKE.sh
 
 sudo chmod +x Deploying-GKE.sh
 

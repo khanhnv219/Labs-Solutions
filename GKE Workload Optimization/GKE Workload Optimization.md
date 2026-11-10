@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/GKE%20Workload%20Optimization/gsp769.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/GKE%20Workload%20Optimization/gsp769.sh
 
 sudo chmod +x gsp769.sh
 

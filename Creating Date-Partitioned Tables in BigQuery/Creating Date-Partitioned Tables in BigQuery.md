@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20Date-Partitioned%20Tables%20in%20BigQuery/gsp414.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Creating%20Date-Partitioned%20Tables%20in%20BigQuery/gsp414.sh
 
 sudo chmod +x gsp414.sh
 

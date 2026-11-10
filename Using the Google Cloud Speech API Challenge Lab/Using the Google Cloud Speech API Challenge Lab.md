@@ -23,7 +23,7 @@ export REQUEST2=
 export RESPONSE2=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Using%20the%20Google%20Cloud%20Speech%20API%20Challenge%20Lab/arc131.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Using%20the%20Google%20Cloud%20Speech%20API%20Challenge%20Lab/arc131.sh
 
 sudo chmod +x arc131.sh
 

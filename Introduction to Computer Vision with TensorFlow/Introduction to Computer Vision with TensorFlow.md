@@ -7,7 +7,7 @@
 ### Run the following Commands in Terminal
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Introduction%20to%20Computer%20Vision%20with%20TensorFlow/gsp631.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Introduction%20to%20Computer%20Vision%20with%20TensorFlow/gsp631.sh
 
 sudo chmod +x gsp631.sh
 

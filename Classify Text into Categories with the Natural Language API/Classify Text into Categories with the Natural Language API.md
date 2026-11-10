@@ -8,7 +8,7 @@
 export KEY=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Classify%20Text%20into%20Categories%20with%20the%20Natural%20Language%20API/gsp063.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Classify%20Text%20into%20Categories%20with%20the%20Natural%20Language%20API/gsp063.sh
 
 sudo chmod +x gsp063.sh
 

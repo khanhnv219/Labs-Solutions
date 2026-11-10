@@ -9,7 +9,7 @@ export MESSAGE=""
 ```
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/App%20Engine%203%20Ways%20Challenge%20Lab/arc112.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/App%20Engine%203%20Ways%20Challenge%20Lab/arc112.sh
 
 sudo chmod +x arc112.sh
 

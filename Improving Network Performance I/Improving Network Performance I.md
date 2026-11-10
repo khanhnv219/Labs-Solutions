@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Improving%20Network%20Performance%20I/gsp045.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Improving%20Network%20Performance%20I/gsp045.sh
 
 sudo chmod +x gsp045.sh
 

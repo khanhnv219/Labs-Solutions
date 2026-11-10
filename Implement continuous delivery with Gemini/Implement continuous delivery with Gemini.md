@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Implement%20continuous%20delivery%20with%20Gemini/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Implement%20continuous%20delivery%20with%20Gemini/shell.sh
 
 sudo chmod +x shell.sh
 

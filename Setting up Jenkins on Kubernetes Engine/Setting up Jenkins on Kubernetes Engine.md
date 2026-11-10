@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Setting%20up%20Jenkins%20on%20Kubernetes%20Engine/gsp117.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Setting%20up%20Jenkins%20on%20Kubernetes%20Engine/gsp117.sh
 
 sudo chmod +x gsp117.sh
 

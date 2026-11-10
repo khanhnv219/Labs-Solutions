@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Google%20Cloud%20Fundamentals%20Getting%20Started%20with%20Cloud%20Storage%20and%20Cloud%20SQL/CloudStorageCloudSQL.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Google%20Cloud%20Fundamentals%20Getting%20Started%20with%20Cloud%20Storage%20and%20Cloud%20SQL/CloudStorageCloudSQL.sh
 
 sudo chmod +x CloudStorageCloudSQL.sh
 

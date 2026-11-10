@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/APIs%20Explorer%20Cloud%20Storage/gsp421.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/APIs%20Explorer%20Cloud%20Storage/gsp421.sh
 
 sudo chmod +x gsp421.sh
 

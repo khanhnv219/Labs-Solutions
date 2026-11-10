@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Troubleshooting%20Common%20SQL%20Errors%20with%20BigQuery/gsp408.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Troubleshooting%20Common%20SQL%20Errors%20with%20BigQuery/gsp408.sh
 
 sudo chmod +x gsp408.sh
 

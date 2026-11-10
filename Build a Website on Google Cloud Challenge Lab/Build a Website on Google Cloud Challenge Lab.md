@@ -15,7 +15,7 @@ export PROD_IDENT=
 export FRONT_IDENT=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Build%20a%20Website%20on%20Google%20Cloud%20Challenge%20Lab/gsp319.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Build%20a%20Website%20on%20Google%20Cloud%20Challenge%20Lab/gsp319.sh
 
 sudo chmod +x gsp319.sh
 

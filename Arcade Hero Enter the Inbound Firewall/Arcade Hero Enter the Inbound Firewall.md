@@ -8,7 +8,7 @@
 export RULE_NAME=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Inbound%20Firewall/arc140.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Inbound%20Firewall/arc140.sh
 
 sudo chmod +x arc140.sh
 

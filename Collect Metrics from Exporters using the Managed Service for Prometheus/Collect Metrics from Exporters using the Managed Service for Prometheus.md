@@ -8,7 +8,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Collect%20Metrics%20from%20Exporters%20using%20the%20Managed%20Service%20for%20Prometheus/gsp1026.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Collect%20Metrics%20from%20Exporters%20using%20the%20Managed%20Service%20for%20Prometheus/gsp1026.sh
 
 sudo chmod +x gsp1026.sh
 

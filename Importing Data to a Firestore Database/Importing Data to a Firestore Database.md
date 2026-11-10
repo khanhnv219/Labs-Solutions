@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Importing%20Data%20to%20a%20Firestore%20Database/gsp642.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Importing%20Data%20to%20a%20Firestore%20Database/gsp642.sh
 
 sudo chmod +x gsp642.sh
 

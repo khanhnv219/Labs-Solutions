@@ -21,7 +21,7 @@ export PROCESSOR_ID=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20and%20Test%20a%20Document%20AI%20Processor/gsp924.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Create%20and%20Test%20a%20Document%20AI%20Processor/gsp924.sh
 
 sudo chmod +x gsp924.sh
 

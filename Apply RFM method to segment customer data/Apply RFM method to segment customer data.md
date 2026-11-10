@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Apply%20RFM%20method%20to%20segment%20customer%20data/shell.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Apply%20RFM%20method%20to%20segment%20customer%20data/shell.sh
 
 sudo chmod +x shell.sh
 

@@ -7,7 +7,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Working%20with%20Virtual%20Machines/VM.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Working%20with%20Virtual%20Machines/VM.sh
 
 sudo chmod +x VM.sh
 

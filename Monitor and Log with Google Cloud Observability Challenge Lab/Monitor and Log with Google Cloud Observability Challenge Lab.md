@@ -9,7 +9,7 @@ export METRIC=
 export VALUE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Monitor%20and%20Log%20with%20Google%20Cloud%20Observability%20Challenge%20Lab/gsp338.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Monitor%20and%20Log%20with%20Google%20Cloud%20Observability%20Challenge%20Lab/gsp338.sh
 
 sudo chmod +x gsp338.sh
 

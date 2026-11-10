@@ -13,7 +13,7 @@ export TOPIC=
 export JOB=
 ```
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Streaming%20Analytics%20into%20BigQuery%20Challenge%20Lab/arc106.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Streaming%20Analytics%20into%20BigQuery%20Challenge%20Lab/arc106.sh
 
 sudo chmod +x arc106.sh
 
