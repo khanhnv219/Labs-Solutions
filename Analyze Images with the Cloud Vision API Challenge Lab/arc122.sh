@@ -25,7 +25,7 @@ RESET=`tput sgr0`
 
 echo "${BG_MAGENTA}${BOLD}Starting Execution${RESET}"
 
-gcloud alpha services api-keys create --display-name="awesome"
+gcloud alpha services api-keys create --display-name="awesome" --api-target=service=vision.googleapis.com
 
 KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=awesome")
 
