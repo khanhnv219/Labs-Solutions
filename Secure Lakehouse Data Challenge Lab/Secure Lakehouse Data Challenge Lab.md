@@ -1,4 +1,4 @@
-# Secure BigLake Data: Challenge Lab || [ARC129](https://www.cloudskillsboost.google/focuses/64458?parent=catalog) ||
+# Secure Lakehouse Data: Challenge Lab || [ARC129](https://www.cloudskillsboost.google/focuses/64458?parent=catalog) ||
 
 ## 💡 Solution [here](https://youtu.be/cX2bsOHifis)
 
@@ -9,7 +9,7 @@
  export USER_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Secure%20BigLake%20Data%20Challenge%20Lab/arc129.sh
+curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/refs/heads/main/Secure%20Lakehouse%20Data%20Challenge%20Lab/arc129.sh
 
 sudo chmod +x arc129.sh
 
