@@ -5,9 +5,6 @@
 ### Run the following Commands in CloudShell
 
 ```
-export REGION=
-```
-```
 curl -LO raw.githubusercontent.com/khanhnv219/Labs-Solutions/main/Enrich%20Metadata%20and%20Discovery%20of%20Lakehouse%20Data%20Challenge%20Lab/arc123.sh
 
 sudo chmod +x arc123.sh
